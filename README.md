@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aly-hany-261275219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aly-hany-261275219/" height="30" width="40" /></a>
 <a  href="mailto:ahanyfathy42@gmail.com" target="blank">
- <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/gmail-new.png">
+ <img align="center"  src="https://img.icons8.com/color/48/gmail-new.png">
 </a>
 </p>
 
