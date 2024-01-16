@@ -1,4 +1,4 @@
-
+<a  href="https://icons8.com/icon/P7UIlhbpWzZm/gmail">Gmail</a> icon by <a href="https://icons8.com">Icons8</a>
 <h1 align="center">Hi👋, I'm Aly Hany</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
