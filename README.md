@@ -5,9 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aly-hany-261275219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aly-hany-261275219/" height="30" width="40" /></a>
- <br>
 <a  href="mailto:ahanyfathy42@gmail.com" target="blank">
- Gmail
+ <img align="center" src="https://icons8.com/icon/nQ4dZIRCI0nW/gmail" height="30" width="40" />
 </a>
 </p>
 
