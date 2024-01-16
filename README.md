@@ -1,4 +1,4 @@
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <h1 align="center">Hi👋, I'm Aly Hany</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
