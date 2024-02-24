@@ -27,9 +27,13 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahany42&layout=compact&theme=vision-friendly-dark" >
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" >
 <a href="https://www.linkedin.com/in/aly-hany-261275219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aly-hany-261275219/" height="30" width="40" /></a>
 <a  href="mailto:ahanyfathy42@gmail.com" target="blank">
  <img align="center"  src="https://img.icons8.com/color/48/gmail-new.png">
-</a>
+  </a>
+   <a href="https://codeforces.com/profile/alyhany.com" target="blank">
+     <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="devildrago999" height="40" width="40" />
+   </a>
+
 </p>
