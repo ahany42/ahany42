@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi👋, I'm Aly Hany<br> </h1>
-<h4 align="center">A Passionate Computer Science Student <br> Junior Front-end Developer</h4>
+<h1 align="center">Hello👋, I'm Aly Hany<br> </h1>
+<h4 align="center">A Passionate Computer Science Student <br> </h4>
 <h4>Languages and Tools:</h4>
 <p align="left">
 
