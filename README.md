@@ -24,6 +24,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> &nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> &nbsp;
+     <img src="https://embetronicx.com/wp-content/uploads/2022/05/vhdl.png" alt="vhdl" width="40" height="40"/> &nbsp;
   <br>
   </p>
 <h4>Stats:</h3>
