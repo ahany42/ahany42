@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello👋, I'm Aly Hany<br> </h1>
 <h4 align="center">A Passionate Computer Science Student <br> </h4>
-<h5 align="center">Intern QA Engineer</h5>
+<h4 align="center">Intern Software QA Engineer</h4>
 <h4>Languages and Tools:</h4>
 <p align="left">
 
