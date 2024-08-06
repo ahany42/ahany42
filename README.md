@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-     <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
+     <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">&nbsp;
      <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" valign="center">
  <br>
  <h4 align="left">Basic Knowledge:</h4>
