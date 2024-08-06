@@ -2,7 +2,7 @@
 <h1 align="center">Hello👋, I'm Aly Hany<br> </h1>
 <h4 align="center">A Passionate Computer Science Student<br>Intern Software QA Engineer <br> Web Front-end FreeLancer</h4>
 <h4>Languages and Tools:</h4>
-<p align="left">
+<p align="center">
 
   <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
@@ -20,8 +20,9 @@
      <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
      <img width=70 src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" valign="center">
  <br>
- <h4 align="left">Familiar With:</h4>
+ <h4 align="left">Basic Knowledge:</h4>
  <p align="left">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> &nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> &nbsp;
