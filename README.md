@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/aly-hany-261275219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aly-hany-261275219/" height="30" width="40" /></a>&nbsp;
 <a  href="mailto:ahanyfathy42@gmail.com" target="blank">
  <img align="center"  src="https://img.icons8.com/color/48/gmail-new.png">
-  </a>&nbsp;
+  </a>
   <a href="https://www.hackerrank.com/profile/ahanyfathy42">
   <img align="center" src="https://github.com/ahany42/ahany42/assets/118932294/58fed282-20f6-434c-863c-13a7041a99d5" width="40" height="40">
 </a>
