@@ -23,7 +23,7 @@
  <p align="left">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> &nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
-     <img src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fskill_page%2F36807%2Flogo%2Foptimized%2Fexpress_js-161052138fa79136c0474521906b55e2.png" alt="express.js" width="40" height="40"/> &nbsp;
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmtAv2G_LoVvYzVphgkaW6W1yj3z0tR7igw&s" alt="express.js" width="40" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
      <img src="https://embetronicx.com/wp-content/uploads/2022/05/vhdl.png" alt="vhdl" width="40" height="40"/> &nbsp;
     <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">&nbsp;
