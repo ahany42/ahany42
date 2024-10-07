@@ -27,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">&nbsp;
      <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" valign="center">
+<img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original-wordmark.svg" alt="wireshark" valign="center">
     <br>
   </p>
 <h4> Real Life Projects:</h4>
