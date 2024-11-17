@@ -48,5 +48,8 @@
    <a href="https://codeforces.com/profile/ahanyfathy42" target="blank">
      <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="devildrago999" height="40" width="40" />
    </a>&nbsp;
+   <a href="https://www.kaggle.com/alyhany04" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="70">
+   </a>
 
 </p>
