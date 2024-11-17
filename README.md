@@ -33,7 +33,6 @@
   </p>
 <h4> Real Life Projects:</h4>
 <a href ="https://Itqanhub.com">itqanhub.com</a>
-<h5> Using React.js , php and mysql </h6>
 <h4>Stats:</h3>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahany42&layout=compact&theme=vision-friendly-dark" >
 <h3 align="left">Connect with me:</h4>
