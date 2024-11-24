@@ -29,8 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">&nbsp;
-     <img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" valign="center">
-    <br>
   </p>
 <h4> Real Life Projects:</h4>
 <a href ="https://Itqanhub.com">itqanhub.com</a>
