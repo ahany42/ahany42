@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Aly Hany<br> </h1>
-<h4 align="center">A Passionate Computer Science Student <br>Software Engineer<br>Software QA Engineer</h4>
+<h4 align="center">Front End Developer | React.js<br> Software Engineer</h4>
 <h4>Languages and Tools:</h4>
 <p align="center">
 
