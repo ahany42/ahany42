@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Aly Hany Abuassy<br> </h1>
-<h4 align="center">AI Student | Front-End Developer using React.js</h4>
+<h4 align="center">AI Student | QA Intern @ Vodafone | Front-End Developer using React.js</h4>
 <h4>Languages and Tools:</h4>
 <p align="center">
 
