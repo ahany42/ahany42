@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEM2V1Zrr7ohA/articleshare-shrink_1280_800/B4DZbAGVGXHQAY-/0/1746979607266?e=2147483647&v=beta&t=7uqP-aIiJD1ztCIHazLBQKXq3M2T7GpOfmsyzYsdxdE" alt="PSC Logo" width="40" /></td>
-      <td><strong>Positive Side Consulting - PSC</strong></td>
+      <td><strong>PSC</strong></td>
       <td>QA Intern</td>
       <td>Feb 2023 - Jan 2025</td>
     </tr>
