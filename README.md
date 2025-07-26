@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SNf5Pw1uV7GxPm_MUmbwg-mOCql2cWlsLw&s" alt="git" width="40" height="40"/>&nbsp;
  <br>
  <h3 align="left">Basic Knowledge:</h3>
  <p align="left">
