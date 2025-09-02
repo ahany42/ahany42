@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Aly Hany Abuassy<br> </h1>
-<h4 align="center">Senior AI Student | QA Intern @ Vodafone | Front-End Developer</h4>
+<h4 align="center">Senior AI Student | EX- QA Intern @ Vodafone and VOIS| Front-End Developer</h4>
 <h3>Languages and Tools:</h3>
 <p align="center">
 
