@@ -32,7 +32,7 @@
   </p>
 <h3> Real Life Projects:</h3>
 <a href ="https://Itqanhub.com">itqanhub.com</a>
-<h3>Technical Internships:</h3>
+<h3>Technical Undergraduate Experience:</h3>
 <table>
   <thead>
 <!--     <tr>
@@ -46,19 +46,19 @@
     <tr>
       <td><img src="https://vois.career-inspiration.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fpathmotion%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2FplatformsImages%2F309%2Fapp_logo%2FVOIS_LOGO_gradient&w=3840&q=75" alt="Vois Logo" width="40" /></td>
       <td><strong>Vois</strong></td>
-      <td>QA Intern</td>
+     <td>QA and Test Automation Intern</td>
       <td>August 2025</td>
     </tr>
     <tr>
       <td><img src="https://media.licdn.com/dms/image/v2/C4D0BAQEbHT2hBVRhbw/company-logo_200_200/company-logo_200_200/0/1630552329146/vodafone_enterprise_logo?e=2147483647&v=beta&t=TrlrZTLQkVB_CY_ldwLq-IbK15XFsI2K4506N_WoqPU" alt="Vodafone Logo" width="40" /></td>
       <td><strong>Vodafone</strong></td>
-      <td>QA Intern</td>
+      <td>QA and Test Automation Intern</td>
       <td>July 2025</td>
     </tr>
     <tr>
       <td><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEM2V1Zrr7ohA/articleshare-shrink_1280_800/B4DZbAGVGXHQAY-/0/1746979607266?e=2147483647&v=beta&t=7uqP-aIiJD1ztCIHazLBQKXq3M2T7GpOfmsyzYsdxdE" alt="PSC Logo" width="40" /></td>
       <td><strong>PSC</strong></td>
-      <td>QA Intern</td>
+      <td>QA Partime</td>
       <td>Feb 2023 - Jan 2025</td>
     </tr>
     <tr>
