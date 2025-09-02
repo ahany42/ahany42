@@ -44,6 +44,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><img src="https://vois.career-inspiration.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fpathmotion%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2FplatformsImages%2F309%2Fapp_logo%2FVOIS_LOGO_gradient&w=3840&q=75" alt="Vois Logo" width="40" /></td>
+      <td><strong>Vois</strong></td>
+      <td>QA Intern</td>
+      <td>August 2025</td>
+    </tr>
+    <tr>
       <td><img src="https://media.licdn.com/dms/image/v2/C4D0BAQEbHT2hBVRhbw/company-logo_200_200/company-logo_200_200/0/1630552329146/vodafone_enterprise_logo?e=2147483647&v=beta&t=TrlrZTLQkVB_CY_ldwLq-IbK15XFsI2K4506N_WoqPU" alt="Vodafone Logo" width="40" /></td>
       <td><strong>Vodafone</strong></td>
       <td>QA Intern</td>
