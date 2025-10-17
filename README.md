@@ -3,7 +3,6 @@
 <h4 align="center">Senior AI Student | QA Partimer | EX- QA Intern @ Vodafone and VOIS| Front-End Developer</h4>
 <h3>Languages and Tools:</h3>
 <p align="center">
-
   <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
