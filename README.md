@@ -3,7 +3,8 @@
 <h2 align="left">About Me:</h2>
 
 
-<p align="left">Senior AI and Computer Science student with hands-on experience in frontend development, building responsive, user-focused interfaces and integrating RESTful APIs. Worked on projects at 34ML, VOIS, Vodafone, and PSC, gaining experience in both manual and automation testing. Developed two full-stack MERN freelance websites, including one for ITQAN Hub, a partner of Fortinet, INE, PECB, and others.</p>
+<p align="left">Senior AI and Computer Science student with hands-on experience in frontend development, building responsive, user-focused interfaces and integrating RESTful APIs. Worked on projects at 34ML, VOIS, Vodafone, and PSC, gaining experience in both manual and automation testing. Developed two full-stack MERN freelance websites, including one for <a href="https://itqanhub.com">Itqan Hub</a>, a partner of Fortinet, INE, PECB, and others.</p>
+
 
 
 <h2 align="left">Tools:</h2>
