@@ -1,9 +1,9 @@
 <h1 align="left">Hello👋, I'm Aly Hany Abuassy</h1>
-<h4 align="center">Senior AI Student | QA Partimer | EX- QA Intern @ Vodafone and VOIS| Front-End Developer</h4>
+<h4 align="center">SDET | AI Graduate | EX- QA Intern @ Vodafone and VOIS| Front-End Developer</h4>
 <h2 align="left">About Me:</h2>
 
 
-<p align="left">Senior AI and Computer Science student with hands-on experience in frontend development, building responsive, user-focused interfaces and integrating RESTful APIs. Worked on projects at 34ML, VOIS, Vodafone, and PSC, gaining experience in both manual and automation testing. Developed two full-stack MERN freelance websites, including one for <a href="https://itqanhub.com">Itqan Hub</a>, a partner of Fortinet, INE, PECB, and others.</p>
+<p align="left">Computer Science graduate specializing in Artificial Intelligence with an Excellent grade. QA Automation Engineer experienced in manual and automated testing for web and mobile applications using Playwright and Appium. Strong development background in the MERN stack with hands-on experience integrating RESTful APIs and building scalable web applications. Proven industry experience through roles at 34ML, VOIS, Vodafone, PSC, and BlinkApp.</p>
 
 
 
