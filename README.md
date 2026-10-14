@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" title="Postman" />
 </p>
 </p>
-## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ahany42&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats" />
